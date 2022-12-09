@@ -1,6 +1,10 @@
 # Simple test of Curses lib in Ruby
 
-simply run
+Original idea from : https://github.com/fracnull/ASCII-Trees and video https://youtu.be/uUhAtMQLLeE
+
+![Screen capture](demo_screen_shot.jpg)
+
+run
 
 ```sh
 ruby curse_ascii_trees.rb
